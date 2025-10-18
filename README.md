@@ -33,4 +33,4 @@ Each lead is carefully qualified with a **justification for their selection**, e
 ## How to Use / Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/abm-decision-makers.git
+   git clone https://github.com/daredevil436/abm-decision-makers.git
